@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Exercício 2</title>
+    </head>
+    <button>Criar Quadrado</button>
+    <div id='app'></div>
+    </div>
+    <body>
+        <script>
+            var buttonElement = document.querySelector('button');
+            var containerElement = document.querySelector('div#app');
+            
+            function getRandomColor() {
+                var letters = "0123456789ABCDEF";
+                var color = "#";
+                for (var i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+            }
+            var newColor = getRandomColor(); // #E943F0
+
+
+            buttonElement.onclick = function(){
+                var squareElement = document.createElement('div');
+                
+                squareElement.style.width = 100;
+                squareElement.style.height = 100;
+                squareElement.style.backgroundColor = "f00";
+
+                squareElement.onmouseover = function(){
+                    squareElement.style.backgroundColor = getRandomColor();
+                }
+                containerElement.appendChild(squareElement);
+            }
+        </script>
+    </body>
+</html>
