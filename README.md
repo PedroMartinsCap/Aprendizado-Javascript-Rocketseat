@@ -1,2 +1,4 @@
 # Aprendizado-Javascript
-Exercícios realizados durante meu aprendizado de javascript
+
+### Todos os Exercícios postados aqui foram realizados durante meu aprendizado no curso de javascript Starter da Rocketseat.
+
