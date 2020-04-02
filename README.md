@@ -6,8 +6,8 @@ Aqui eu postarei tanto os exercícios realizados durante as vídeoaulas quanto o
 
 O objetivo é simplismente acompanhar o meu desenvolvimento como programador. Sua opinião é bem vinda!
 
-Caso tenha interesse no curso Starter da Rocketseat, segue o link.
+Dicas de Estudo Nível Iniciante:
 
-https://rocketseat.com.br/starter
+[Curso Starter Rocketseat](https://rocketseat.com.br/starter) - :free:
 
-O Starter é gratuito, caso queira se aprofundar pode adquirir o Bootcamp.
+[Curso LaunchBase Rocketseat](https://rocketseat.com.br/launchbase/inscricao/4.0) - :moneybag:
