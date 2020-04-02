@@ -6,7 +6,7 @@ Aqui eu postarei tanto os exercícios realizados durante as vídeoaulas quanto o
 
 O objetivo é simplismente acompanhar o meu desenvolvimento como programador. Sua opinião é bem vinda!
 
-Casco tenha interesse no curso Starter da Rocketseat, segue o link.
+Caso tenha interesse no curso Starter da Rocketseat, segue o link.
 
 https://rocketseat.com.br/starter
 
