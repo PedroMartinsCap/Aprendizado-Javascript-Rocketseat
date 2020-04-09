@@ -6,7 +6,7 @@ Aqui eu postarei tanto os exercícios realizados durante as vídeoaulas quanto o
 
 O objetivo é simplismente acompanhar o meu desenvolvimento como programador. Sua opinião é bem vinda!:+1:
 
-Dicas de Estudo Nível Iniciante::cool:
+Dicas de Estudo Nível Iniciante:
 
 [Curso Starter Rocketseat](https://rocketseat.com.br/starter) - :free:
 
