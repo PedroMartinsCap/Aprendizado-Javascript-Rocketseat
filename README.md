@@ -4,7 +4,7 @@
 
 Aqui eu postarei tanto os exercícios realizados durante as vídeoaulas quanto os que eu realizei para reafirmar os estudos.
 
-O objetivo é simplismente acompanhar o meu desenvolvimento como programador. Sua opinião é bem vinda!:+1:
+O objetivo é simplesmente acompanhar o meu desenvolvimento como programador. Sua opinião é bem vinda!
 
 Dicas de Estudo Nível Iniciante:
 
