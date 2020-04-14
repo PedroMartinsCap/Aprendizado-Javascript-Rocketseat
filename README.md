@@ -10,10 +10,14 @@ O objetivo é simplesmente acompanhar o meu desenvolvimento como programador. Su
 
 O módulo é uma introdução básica sobre as operações básicas de javascript. Bastante parecido com outras linguagens de programação, como java e C.
 
+##### Desafio Proposto [Módulo 1](https://skylab.rocketseat.com.br/api/files/1566498717618.pdf)
+
 ### :green_book: Módulo 2 :heavy_check_mark:
 
 O módulo 2 é uma introdução aos métodos de manipulação da DOM. 
 Eventos Inline, Selectors e mannipulação da DOM através do javascript.
+
+##### Desafio Proposto [Módulo 2](https://skylab.rocketseat.com.br/api/files/1566499161406.pdf)
 
 ### :green_book: Módulo 3 :heavy_check_mark:
 
@@ -23,11 +27,17 @@ No módulo 3 foi feito uma página de To-do, com a opção de adicionar e exclui
 
 O módulo 4 apresenta as requisições com AJAX, Promises e utilização do Axios.
 
+##### Desafio Proposto [Módulo 4](https://skylab.rocketseat.com.br/api/files/1566499182493.pdf)
+
+
+
 #### Dicas de Estudo Nível Iniciante:
 
 [Curso Starter Rocketseat](https://rocketseat.com.br/starter) - :free:
 
 [Curso LaunchBase Rocketseat](https://rocketseat.com.br/launchbase/inscricao/4.0) - :moneybag:
+
+
 
 #### Obs.:
 
