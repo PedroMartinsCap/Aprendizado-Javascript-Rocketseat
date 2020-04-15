@@ -43,4 +43,4 @@ O módulo 4 apresenta as requisições com AJAX, Promises e utilização do Axio
 
 * Não é divulgação de link de filiados, não estou ganhando com isso, é porque eu realmente gostei da didática.
 
-* Os conteúdo visto nesses cursos pode parecer bastante superficial, porém deve-se levar em consideração que o conhecimento não pode ser comprimido em apenas um curso ou apenas uma "pesquisada" no Google, é necessário tempo e empenho para a fixação e pesquisas mais aprofundadas nos termos, assuntos e funcionalidade de cada linguagem ou Framework.
+* O conteúdo visto nesses cursos pode parecer bastante superficial, porém deve-se levar em consideração que o conhecimento não pode ser comprimido em apenas um curso ou apenas uma "pesquisada" no Google, é necessário tempo e empenho para a fixação e pesquisas mais aprofundadas nos termos, assuntos e funcionalidade de cada linguagem ou Framework.
