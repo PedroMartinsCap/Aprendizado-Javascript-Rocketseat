@@ -1,39 +1,34 @@
-var inputElement = document.querySelector('input');
-var buttonElement = document.querySelector('button');
-
-//Criar a <ul> na DOM
-var bodyElement = document.querySelector('body');
-var ulElement = document.createElement('ul');
+var inputElement = document.querySelector('input')
+var buttonElement = document.querySelector('button')
+var bodyElement = document.querySelector('body')
+var ulElement = document.createElement('ul')
 bodyElement.appendChild(ulElement);
 
-searchRepositories = function(){
-    ulElement.innerHTML = '';
-    
-    var liElement = document.createElement('li');
-    var textElement = document.createTextNode("carregando...");
+searchRepositories = function () {
+    ulElement.innerHTML = ''
+    var liElement = document.createElement('li')
+    var textElement = document.createTextNode('carregando...')
 
-    ulElement.appendChild(liElement);
-    liElement.appendChild(textElement);
-    
-    axios.get('https://api.github.com/users/'+inputElement.value+'/repos')
-        .then(function(response){
-            renderRepositories(response.data);
+    ulElement.appendChild(liElement)
+    liElement.appendChild(textElement)
+
+    axios.get('https://api.github.com/users/' + inputElement.value + '/repos')
+        .then(function (response) {
+            renderRepositories(response.data)
         })
-        .catch(function(error){
-            alert('Usuário Inexistente');
-            ulElement.innerHTML = '';
+        .catch(function (error) {
+            alert('Usuário Inexistente')
+            ulElement.innerHTML = ''
         });
 }
 
+function renderRepositories(response) {
+    ulElement.innerHTML = ''
+    for (repositorie of response) {
+        var liElement = document.createElement('li')
+        var textElement = document.createTextNode(repositorie.name)
 
-//Renderiza os repositórios
-function renderRepositories(response){
-    ulElement.innerHTML = '';
-    for(repositorie of response){
-        var liElement = document.createElement('li');
-        var textElement = document.createTextNode(repositorie.name);
-        
-        ulElement.appendChild(liElement);
-        liElement.appendChild(textElement);
+        ulElement.appendChild(liElement)
+        liElement.appendChild(textElement)
     }
 }
