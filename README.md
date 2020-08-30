@@ -33,9 +33,7 @@ O módulo 4 apresenta as requisições com AJAX, Promises e utilização do Axio
 
 #### Dicas de Estudo Nível Iniciante:
 
-[Curso Starter Rocketseat](https://rocketseat.com.br/starter) - :free:
-
-[Curso LaunchBase Rocketseat](https://rocketseat.com.br/launchbase/inscricao/4.0) - :moneybag:
+[Rocketseat](http://app.rocketseat.com.br/dashboard) - :moneybag:
 
 
 
